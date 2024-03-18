@@ -13,7 +13,8 @@ https://github.com/zgeblbl/alienInvasionFPS/assets/117914215/a229eea9-07ad-4028-
 - At the beginning, game welcomes you with the start menu.
 - Game objective is to kill all alien enemies existing in the current level.
 - Player has 100 health, enemy projectiles cause 25 damage. Getting hit 4 times results in failure.
-- Player has infinite bullets. Each killed alien is shown by adding +1 to the kill count on the corner of the screen.
+- Player has infinite bullets. Each killed alien is shown by adding +1 to the kill count on the corner of the screen.<br />
+
 ![image](https://github.com/zgeblbl/alienInvasionFPS/assets/117914215/c6a0882f-b7f3-4d55-b149-63b34f5679e5)
 
 - Enemies trigger a particle system when killed.
