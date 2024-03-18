@@ -17,6 +17,6 @@ https://github.com/zgeblbl/alienInvasionFPS/assets/117914215/a229eea9-07ad-4028-
 ![image](https://github.com/zgeblbl/alienInvasionFPS/assets/117914215/c6a0882f-b7f3-4d55-b149-63b34f5679e5)
 
 - The game has 2 levels, more levels can be added in the future.
-
+'Pause Menu'
 
 
