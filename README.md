@@ -16,10 +16,13 @@ https://github.com/zgeblbl/alienInvasionFPS/assets/117914215/a229eea9-07ad-4028-
 - Player has infinite bullets. Each killed alien is shown by adding +1 to the kill count on the corner of the screen.
 ![image](https://github.com/zgeblbl/alienInvasionFPS/assets/117914215/c6a0882f-b7f3-4d55-b149-63b34f5679e5)
 
+- Enemies trigger a particle system when killed.
 - The game has 2 levels, more levels can be added in the future.
   
 ### Pause Menu:
 ![image](https://github.com/zgeblbl/alienInvasionFPS/assets/117914215/542de792-61f1-4ab9-a2ea-74d826b08434)
-
-
+### Level Win Menu:
+![image](https://github.com/zgeblbl/alienInvasionFPS/assets/117914215/2fe6975a-85a0-4980-9d55-36d778c8a2ad)
+### Game Completed Scene:
+![image](https://github.com/zgeblbl/alienInvasionFPS/assets/117914215/e5706b77-e545-4978-81b9-6b851cf7dd41)
 
